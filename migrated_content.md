@@ -38,8 +38,8 @@ Medlemskap är helt gratis, även om donationer är välkomna. Bli medlem
 genom att gå med i vår
 [maillista](http://lists.owasp.org/mailman/listinfo/OWASP-Sweden),
 notera att vi delar maillista med de två andra lokalföreningarna i
-Sverige; [Sweden](Sweden "wikilink") och
-[Gothenburg](Gothenburg "wikilink").
+Sverige; [Sweden](Sweden ) och
+[Gothenburg](Gothenburg ).
 
 # Möten
 
@@ -123,9 +123,9 @@ MVH Gustav, Marcus och Åke
 
   - Slides
       - [Jonas Elmqvist - Informationssäkerhet och IT-forensik inom
-        betalkortsindustrin](https://www.owasp.org/images/a/ac/OES_2014-03-13_Jonas_Elmqvist.pdf)
+        betalkortsindustrin](/www-pdf-archive/OES_2014-03-13_Jonas_Elmqvist.pdf)
       - [Leif Nixon - IT-säkerhetsincidenter från verkliga
-        livet](https://www.owasp.org/images/9/92/OES_2014-03-13_Leif_Nixon.pdf)
+        livet](/www-pdf-archive/OES_2014-03-13_Leif_Nixon.pdf)
   - Länkar
       - <http://www.welivesecurity.com/2014/03/18/attack-unix-operation-windigo/>
 
@@ -171,9 +171,9 @@ MVH David, Gustav och Åke
 **Uppföljning:**
 
   - Slides
-      - [Introduktion](https://www.owasp.org/images/4/4e/OES_2013-10-03_Introduction_swe.pdf)
+      - [Introduktion](/www-pdf-archive/OES_2013-10-03_Introduction_swe.pdf)
       - [OWASP
-        Topp 10](https://www.owasp.org/images/d/db/OES_2013-10-03_Topp_10_swe.pdf)
+        Topp 10](/www-pdf-archive/OES_2013-10-03_Topp_10_swe.pdf)
   - Brown bag sessions
       - Joseph McCray - You Spent All That Money And You Still Got
         Owned...
@@ -191,6 +191,6 @@ MVH David, Gustav och Åke
 
 </div>
 
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
-[Category:Europe](Category:Europe "wikilink")
-[Category:Sweden](Category:Sweden "wikilink")
+[Category:OWASP Chapter](Category:OWASP_Chapter )
+[Category:Europe](Category:Europe )
+[Category:Sweden](Category:Sweden )
